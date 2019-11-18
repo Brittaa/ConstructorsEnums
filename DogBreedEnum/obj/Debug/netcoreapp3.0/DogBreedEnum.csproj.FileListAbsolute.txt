@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/bin/Debug/netcoreapp3.0/DogBreedEnum
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/bin/Debug/netcoreapp3.0/DogBreedEnum.deps.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/bin/Debug/netcoreapp3.0/DogBreedEnum.runtimeconfig.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/bin/Debug/netcoreapp3.0/DogBreedEnum.runtimeconfig.dev.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/bin/Debug/netcoreapp3.0/DogBreedEnum.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/bin/Debug/netcoreapp3.0/DogBreedEnum.pdb
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/obj/Debug/netcoreapp3.0/DogBreedEnum.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/obj/Debug/netcoreapp3.0/DogBreedEnum.AssemblyInfo.cs
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/obj/Debug/netcoreapp3.0/DogBreedEnum.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogBreedEnum/obj/Debug/netcoreapp3.0/DogBreedEnum.pdb

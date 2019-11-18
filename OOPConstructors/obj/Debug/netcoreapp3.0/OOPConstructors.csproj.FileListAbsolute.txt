@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/obj/Debug/netcoreapp3.0/OOPConstructors.csprojAssemblyReference.cache
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/obj/Debug/netcoreapp3.0/OOPConstructors.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/obj/Debug/netcoreapp3.0/OOPConstructors.AssemblyInfo.cs
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/bin/Debug/netcoreapp3.0/OOPConstructors
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/bin/Debug/netcoreapp3.0/OOPConstructors.deps.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/bin/Debug/netcoreapp3.0/OOPConstructors.runtimeconfig.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/bin/Debug/netcoreapp3.0/OOPConstructors.runtimeconfig.dev.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/bin/Debug/netcoreapp3.0/OOPConstructors.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/bin/Debug/netcoreapp3.0/OOPConstructors.pdb
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/obj/Debug/netcoreapp3.0/OOPConstructors.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/OOPConstructors/obj/Debug/netcoreapp3.0/OOPConstructors.pdb

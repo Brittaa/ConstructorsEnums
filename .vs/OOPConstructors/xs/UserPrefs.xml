@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{AD392C6B-718C-4F8C-8F61-B6E7700C7C2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.DogBreedEnum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskList/Program.cs">
+    <Files>
+      <File FileName="OOPConstructors/Program.cs" Line="7" Column="38" />
+      <File FileName="DogConstructors/Program.cs" Line="18" Column="6" />
+      <File FileName="DogBreedEnum/Program.cs" Line="43" Column="58" />
+      <File FileName="ListOfObjects/Program.cs" Line="32" Column="17" />
+      <File FileName="TaskList/Program.cs" Line="51" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPConstructors" expanded="True">
+            <Node name="DogBreedEnum" expanded="True" />
+            <Node name="DogConstructors" expanded="True" />
+            <Node name="ListOfObjects" expanded="True" />
+            <Node name="OOPConstructors" expanded="True" />
+            <Node name="TaskList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DogConstructors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ListOfObjects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TaskList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OOPConstructors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

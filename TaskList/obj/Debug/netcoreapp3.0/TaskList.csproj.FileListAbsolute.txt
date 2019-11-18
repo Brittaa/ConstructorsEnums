@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/bin/Debug/netcoreapp3.0/TaskList
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/bin/Debug/netcoreapp3.0/TaskList.deps.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/bin/Debug/netcoreapp3.0/TaskList.runtimeconfig.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/bin/Debug/netcoreapp3.0/TaskList.runtimeconfig.dev.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/bin/Debug/netcoreapp3.0/TaskList.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/bin/Debug/netcoreapp3.0/TaskList.pdb
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/obj/Debug/netcoreapp3.0/TaskList.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/obj/Debug/netcoreapp3.0/TaskList.AssemblyInfo.cs
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/obj/Debug/netcoreapp3.0/TaskList.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/TaskList/obj/Debug/netcoreapp3.0/TaskList.pdb

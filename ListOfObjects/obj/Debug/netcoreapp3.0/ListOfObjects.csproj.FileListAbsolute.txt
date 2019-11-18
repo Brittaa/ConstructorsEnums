@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/bin/Debug/netcoreapp3.0/ListOfObjects
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/bin/Debug/netcoreapp3.0/ListOfObjects.deps.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/bin/Debug/netcoreapp3.0/ListOfObjects.runtimeconfig.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/bin/Debug/netcoreapp3.0/ListOfObjects.runtimeconfig.dev.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/bin/Debug/netcoreapp3.0/ListOfObjects.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/bin/Debug/netcoreapp3.0/ListOfObjects.pdb
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/obj/Debug/netcoreapp3.0/ListOfObjects.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/obj/Debug/netcoreapp3.0/ListOfObjects.AssemblyInfo.cs
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/obj/Debug/netcoreapp3.0/ListOfObjects.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/ListOfObjects/obj/Debug/netcoreapp3.0/ListOfObjects.pdb

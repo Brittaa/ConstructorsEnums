@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/bin/Debug/netcoreapp3.0/DogConstructors
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/bin/Debug/netcoreapp3.0/DogConstructors.deps.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/bin/Debug/netcoreapp3.0/DogConstructors.runtimeconfig.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/bin/Debug/netcoreapp3.0/DogConstructors.runtimeconfig.dev.json
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/bin/Debug/netcoreapp3.0/DogConstructors.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/bin/Debug/netcoreapp3.0/DogConstructors.pdb
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/obj/Debug/netcoreapp3.0/DogConstructors.csprojAssemblyReference.cache
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/obj/Debug/netcoreapp3.0/DogConstructors.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/obj/Debug/netcoreapp3.0/DogConstructors.AssemblyInfo.cs
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/obj/Debug/netcoreapp3.0/DogConstructors.dll
+/Users/Britta/Desktop/ConstructorsEnums/OOPConstructors/DogConstructors/obj/Debug/netcoreapp3.0/DogConstructors.pdb
